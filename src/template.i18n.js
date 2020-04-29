@@ -424,7 +424,9 @@ module.exports = {
     'General': null,
     'Themes': null,
     'Engines': null,
-    'Close': null
+    'Close': null,
+    'Together Mode - Engine Moves:': null,
+    'Together Mode - Human Moves:': null
   },
   'ScoreDrawer': {
     'Black': null,

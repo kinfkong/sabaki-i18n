@@ -453,7 +453,9 @@ module.exports = {
     'Engines': '引擎',
     'Close': '关闭',
     /* unused */ 'Instantly play out analysis variations on board':
-      '分析模式下立即显示完整变化'
+      '分析模式下立即显示完整变化',
+      'Together Mode - Engine Moves:': '联机模式 - 引擎步数:',
+      'Together Mode - Human Moves:': '联机模式 - 人类步数:'
   },
   'ScoreDrawer': {
     'Black': '黑棋',

@@ -461,7 +461,9 @@ module.exports = {
     'Engines': 'エンジン',
     'Close': '閉じる',
     /* unused */ 'Instantly play out analysis variations on board':
-      '碁盤上で解析変化を即プレイアウト'
+      '碁盤上で解析変化を即プレイアウト',
+      'Together Mode - Engine Moves:': 'Together Mode - Engine Moves:',
+      'Together Mode - Human Moves:': 'Together Mode - Human Moves:'
   },
   'ScoreDrawer': {
     'Black': '黒',

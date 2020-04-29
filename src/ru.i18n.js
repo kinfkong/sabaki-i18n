@@ -463,7 +463,9 @@ module.exports = {
     'General': 'Основные',
     'Themes': 'Темы',
     'Engines': 'Программы',
-    'Close': 'Закрыть'
+    'Close': 'Закрыть',
+    'Together Mode - Engine Moves:': 'Together Mode - Engine Moves:',
+    'Together Mode - Human Moves:': 'Together Mode - Human Moves:'
   },
   'ScoreDrawer': {
     'Black': 'Чёрные',

@@ -460,7 +460,9 @@ module.exports = {
     'General': 'Genel',
     'Themes': 'Temalar',
     'Engines': 'Motorlar',
-    'Close': 'Kapat'
+    'Close': 'Kapat',
+    'Together Mode - Engine Moves:': 'Together Mode - Engine Moves:',
+    'Together Mode - Human Moves:': 'Together Mode - Human Moves:'
   },
   'ScoreDrawer': {
     'Black': 'Siyah',

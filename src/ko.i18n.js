@@ -461,7 +461,9 @@ module.exports = {
     'Engines': '엔진',
     'Close': '닫기',
     /* unused */ 'Instantly play out analysis variations on board':
-      '엔진 분석 변화도를 판에 한번에 보여주기'
+      '엔진 분석 변화도를 판에 한번에 보여주기',
+      'Together Mode - Engine Moves:': 'Together Mode - Engine Moves:',
+      'Together Mode - Human Moves:': 'Together Mode - Human Moves:'
   },
   'ScoreDrawer': {
     'Black': '흑',
