@@ -240,6 +240,8 @@ module.exports = {
     'Set as Analyzer': null,
     'Set as Black Player': null,
     'Set as White Player': null,
+    'Set as Black Player With Human Together': null,
+    'Set as White Player With Human Together': null,
     'Go to Engine': null
   },
   'AutoplayBar': {

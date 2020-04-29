@@ -264,6 +264,8 @@ module.exports = {
     'Set as Analyzer': 'Establecer como Analizador',
     'Set as Black Player': 'Establecer como Jugador Negro',
     'Set as White Player': 'Establecer como Jugador Blanco',
+    'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',
+    'Set as White Player With Human Together': 'Set as &White Player With &Human Together',
     'Go to Engine': 'Ir al Motor'
   },
   'AutoplayBar': {

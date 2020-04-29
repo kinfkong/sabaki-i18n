@@ -269,6 +269,8 @@ module.exports = {
     'Set as Analyzer': 'Назначить для анализа',
     'Set as Black Player': 'Назначить для чёрных',
     'Set as White Player': 'Назначить для белых',
+    'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',
+    'Set as White Player With Human Together': 'Set as &White Player With &Human Together',
     'Go to Engine': 'К программе'
   },
   'AutoplayBar': {

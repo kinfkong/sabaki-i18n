@@ -268,6 +268,8 @@ module.exports = {
     'Set as Analyzer': 'Analizci Olarak Ayarla',
     'Set as Black Player': 'Siyah Oyuncu Olarak Ayarla',
     'Set as White Player': 'Beyaz Oyuncu Olarak Ayarla',
+    'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',
+    'Set as White Player With Human Together': 'Set as &White Player With &Human Together',
     'Go to Engine': 'Motora Git'
   },
   'AutoplayBar': {

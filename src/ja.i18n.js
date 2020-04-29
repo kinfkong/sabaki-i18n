@@ -269,6 +269,8 @@ module.exports = {
     'Set as Analyzer': '解析器に指定',
     'Set as Black Player': '黒番に指定',
     'Set as White Player': '白番に指定',
+    'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',
+    'Set as White Player With Human Together': 'Set as &White Player With &Human Together',
     'Go to Engine': 'エンジンに移動'
   },
   'AutoplayBar': {

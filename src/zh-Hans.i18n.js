@@ -264,6 +264,8 @@ module.exports = {
     'Set as Analyzer': '设为分析器',
     'Set as Black Player': '持黑',
     'Set as White Player': '持白',
+    'Set as Black Player With Human Together': '持黑(联棋)',
+    'Set as White Player With Human Together': '持白(联棋)',
     'Go to Engine': '转到引擎控制台'
   },
   'AutoplayBar': {

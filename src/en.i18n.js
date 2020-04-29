@@ -268,6 +268,8 @@ module.exports = {
     'Set as Analyzer': 'Set as &Analyzer',
     'Set as Black Player': 'Set as &Black Player',
     'Set as White Player': 'Set as &White Player',
+    'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',
+    'Set as White Player With Human Together': 'Set as &White Player With &Human Together',
     'Go to Engine': '&Go to Engine'
   },
   'AutoplayBar': {
