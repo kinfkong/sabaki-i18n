@@ -272,6 +272,7 @@ module.exports = {
     'Synchronize': 'Синхронизировать',
     'Generate Move': 'Сделать ход',
     'Set as Analyzer': 'Назначить для анализа',
+    'Set as Ownership Analyzer': 'Set as Ownership &Analyzer',
     'Set as Black Player': 'Назначить для чёрных',
     'Set as White Player': 'Назначить для белых',
     'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',

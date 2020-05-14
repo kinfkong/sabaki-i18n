@@ -268,6 +268,7 @@ module.exports = {
     'Generate Move': '生成下一手',
     'Analyze Ownership': '分析形势',
     'Set as Analyzer': '设为分析器',
+    'Set as Ownership Analyzer': '设为形势分析器',
     'Set as Black Player': '持黑',
     'Set as White Player': '持白',
     'Set as Black Player With Human Together': '持黑(联棋)',

@@ -242,6 +242,7 @@ module.exports = {
     'Generate Move': null,
     'Analyze Ownership': null,
     'Set as Analyzer': null,
+    'Set as Ownership Analyzer': null,
     'Set as Black Player': null,
     'Set as White Player': null,
     'Set as Black Player With Human Together': null,

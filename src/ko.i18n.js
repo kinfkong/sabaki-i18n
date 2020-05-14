@@ -272,6 +272,7 @@ module.exports = {
     'Synchronize': '동기화',
     'Generate Move': '다음 수 두기',
     'Set as Analyzer': '분석 엔진으로 설정',
+    'Set as Ownership Analyzer': 'Set as Ownership &Analyzer',
     'Set as Black Player': '흑으로 설정',
     'Set as White Player': '백으로 설정',
     'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',

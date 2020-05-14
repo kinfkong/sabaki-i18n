@@ -271,6 +271,7 @@ module.exports = {
     'Synchronize': 'Senkronize',
     'Generate Move': 'Hamle Yap',
     'Set as Analyzer': 'Analizci Olarak Ayarla',
+    'Set as Ownership Analyzer': 'Set as Ownership &Analyzer',
     'Set as Black Player': 'Siyah Oyuncu Olarak Ayarla',
     'Set as White Player': 'Beyaz Oyuncu Olarak Ayarla',
     'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',

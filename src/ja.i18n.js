@@ -272,6 +272,7 @@ module.exports = {
     'Synchronize': '同期',
     'Generate Move': '着手を生成',
     'Set as Analyzer': '解析器に指定',
+    'Set as Ownership Analyzer': 'Set as Ownership &Analyzer',
     'Set as Black Player': '黒番に指定',
     'Set as White Player': '白番に指定',
     'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',

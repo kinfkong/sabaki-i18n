@@ -268,6 +268,7 @@ module.exports = {
     'Generate Move': 'Generar Jugada',
     'Analyze Ownership': 'Analyze &Ownership',
     'Set as Analyzer': 'Establecer como Analizador',
+    'Set as Ownership Analyzer': 'Set as Ownership &Analyzer',
     'Set as Black Player': 'Establecer como Jugador Negro',
     'Set as White Player': 'Establecer como Jugador Blanco',
     'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',

@@ -272,6 +272,7 @@ module.exports = {
     'Synchronize': 'Synchroniser',
     'Generate Move': 'Générer un Coup',
     'Set as Analyzer': 'Définir Comme Analyseur',
+    'Set as Ownership Analyzer': 'Set as Ownership &Analyzer',
     'Set as Black Player': 'Définir Comme Joueur Noir',
     'Set as White Player': 'Définir Comme Joueur Blanc',
     'Set as Black Player With Human Together': 'Set as &Black Player With &Human Together',
