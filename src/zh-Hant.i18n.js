@@ -104,8 +104,11 @@ module.exports = {
     'Start Engine vs. Engine Game': '開始引擎間的對戰',
     'Stop Engine vs. Engine Game': '停止引擎間的對戰',
     'Generate Move': '生成一手棋',
+    'Analyze Ownership': '分析形势',
     'Please assign an engine to the player first.':
       '請先為當前玩家分配一個引擎',
+      'Please assign an engine to the analyze ownership first.':
+      '请先分配一个开势分析引擎(仅支持katago).',
     '(Unnamed Engine)': '(未命名的引擎)',
     'Manage Engines…': '管理引擎...',
     'Clear Console': '清空'
@@ -263,6 +266,7 @@ module.exports = {
     'Detach': '卸載引擎',
     'Synchronize': '同步',
     'Generate Move': '生成下一手',
+    'Analyze Ownership': '分析形势',
     'Set as Analyzer': '設為分析器',
     'Set as Black Player': '持黑',
     'Set as White Player': '持白',

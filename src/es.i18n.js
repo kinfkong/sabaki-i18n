@@ -103,8 +103,11 @@ module.exports = {
     'Start Engine vs. Engine Game': 'Comenzar Partida de Motor vs. Motor',
     'Stop Engine vs. Engine Game': 'Finalizar Partida de Motor vs. Motor',
     'Generate Move': 'Generar Jugada',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Please assign an engine to the player first.':
       'Por favor asigne un motor al jugador primero.',
+      'Please assign an engine to the analyze ownership first.':
+      'Please assign an engine to the analyze ownership first.',
     '(Unnamed Engine)': '(Motor Sin Nombre)',
     'Manage Engines…': 'Administrar Motores…',
     'Clear Console': 'Limpiar Consola'
@@ -263,6 +266,7 @@ module.exports = {
     'Detach': 'Desconectar',
     'Synchronize': 'Sincronizar',
     'Generate Move': 'Generar Jugada',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Set as Analyzer': 'Establecer como Analizador',
     'Set as Black Player': 'Establecer como Jugador Negro',
     'Set as White Player': 'Establecer como Jugador Blanco',

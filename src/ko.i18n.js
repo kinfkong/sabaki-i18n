@@ -105,8 +105,11 @@ module.exports = {
     'Start Engine vs. Engine Game': '엔진 대 엔진 대국 시작',
     'Stop Engine vs. Engine Game': '엔진 대 엔진 대국 중단',
     'Generate Move': '다음 수 두기',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Please assign an engine to the player first.':
       '먼저 대국자로 엔진을 지정해 주십시오.',
+      'Please assign an engine to the analyze ownership first.':
+      'Please assign an engine to the analyze ownership first.',
     '(Unnamed Engine)': '(이름 없는 엔진)',
     'Manage Engines…': '엔진 관리',
     'Clear Console': '콘솔 내역 지우기'

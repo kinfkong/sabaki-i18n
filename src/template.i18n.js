@@ -97,7 +97,9 @@ module.exports = {
     'Start Engine vs. Engine Game': null,
     'Stop Engine vs. Engine Game': null,
     'Generate Move': null,
+    'Analyze Ownership': null,
     'Please assign an engine to the player first.': null,
+    'Please assign an engine to the analyze ownership first.': null,
     '(Unnamed Engine)': null,
     'Manage Engines…': null,
     'Clear Console': null
@@ -238,6 +240,7 @@ module.exports = {
     'Detach': null,
     'Synchronize': null,
     'Generate Move': null,
+    'Analyze Ownership': null,
     'Set as Analyzer': null,
     'Set as Black Player': null,
     'Set as White Player': null,

@@ -104,8 +104,11 @@ module.exports = {
     'Start Engine vs. Engine Game': 'Motor vs. Motor Oyunu Başlat',
     'Stop Engine vs. Engine Game': 'Motor vs. Motor Oyununu Durdur',
     'Generate Move': 'Hamle Yap',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Please assign an engine to the player first.':
       'Lütfen önce oyuncuyla bir motoru ilişkilendirin.',
+      'Please assign an engine to the analyze ownership first.':
+      'Please assign an engine to the analyze ownership first.',
     '(Unnamed Engine)': '(İsimsiz Motor)',
     'Manage Engines…': 'Motorları Yönet…',
     'Clear Console': 'Komut Satırını Temizle'

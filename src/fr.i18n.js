@@ -104,8 +104,11 @@ module.exports = {
     'Start Engine vs. Engine Game': 'Commencer une Partie Moteur contre Moteur',
     'Stop Engine vs. Engine Game': 'Arrêter la Partie Moteur contre Moteur',
     'Generate Move': 'Générer un Coup',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Please assign an engine to the player first.':
       'Veuillez d’abord assigner un moteur au joueur.',
+      'Please assign an engine to the analyze ownership first.':
+      'Please assign an engine to the analyze ownership first.',
     '(Unnamed Engine)': '(Moteur Sans Nom)',
     'Manage Engines…': 'Gérer les Moteurs…',
     'Clear Console': 'Effacer la Console'

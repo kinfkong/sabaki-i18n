@@ -105,8 +105,11 @@ module.exports = {
     'Start Engine vs. Engine Game': 'Start Engine vs. Engine &Game',
     'Stop Engine vs. Engine Game': 'Stop Engine vs. Engine &Game',
     'Generate Move': 'Generate &Move',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Please assign an engine to the player first.':
       'Please assign an engine to the player first.',
+    'Please assign an engine to the analyze ownership first.':
+      'Please assign an engine to the analyze ownership first.',
     '(Unnamed Engine)': '(Unnamed Engine)',
     'Manage Engines…': 'Manage &Engines…',
     'Clear Console': '&Clear Console'
@@ -267,6 +270,7 @@ module.exports = {
     'Detach': '&Detach',
     'Synchronize': 'S&ynchronize',
     'Generate Move': '&Generate Move',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Set as Analyzer': 'Set as &Analyzer',
     'Set as Black Player': 'Set as &Black Player',
     'Set as White Player': 'Set as &White Player',

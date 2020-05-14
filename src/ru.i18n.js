@@ -105,8 +105,11 @@ module.exports = {
     'Start Engine vs. Engine Game': 'Запустить игру программы с программой',
     'Stop Engine vs. Engine Game': 'Остановить игру программы с программой',
     'Generate Move': 'Сделать ход',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Please assign an engine to the player first.':
       'Сначала назначьте программу игроку.',
+      'Please assign an engine to the analyze ownership first.':
+      'Please assign an engine to the analyze ownership first.',
     '(Unnamed Engine)': '(Безымянная программа)',
     'Manage Engines…': 'Управление программами',
     'Clear Console': 'Очистить консоль'

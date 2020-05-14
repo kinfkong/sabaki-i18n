@@ -105,8 +105,11 @@ module.exports = {
     'Start Engine vs. Engine Game': 'エンジン対エンジン対局を開始',
     'Stop Engine vs. Engine Game': 'エンジン対エンジン対局を停止',
     'Generate Move': '着手を生成',
+    'Analyze Ownership': 'Analyze &Ownership',
     'Please assign an engine to the player first.':
       '最初にエンジンを対局者に割り当ててください。',
+      'Please assign an engine to the analyze ownership first.':
+      'Please assign an engine to the analyze ownership first.',
     '(Unnamed Engine)': '(無名のエンジン)',
     'Manage Engines…': 'エンジンを管理…',
     'Clear Console': 'コンソールをクリア'
