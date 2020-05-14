@@ -204,6 +204,7 @@ module.exports = {
   'sabaki.engine': {
     'Connection Failed': null,
     '${engine} has failed to generate a move.': null,
+    '${engine} has failed to analyze ownership.': null,
     '${engine} has resigned.': null,
     'Please attach one or more engines first.': null,
     'The selected engine does not support analysis.': null

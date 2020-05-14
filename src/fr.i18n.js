@@ -228,6 +228,8 @@ module.exports = {
     'Connection Failed': 'La Connexion a Échoué',
     '${engine} has failed to generate a move.': p =>
       `${p.engine} a échoué a générer un coup.`,
+    '${engine} has failed to analyze ownership.': p =>
+      `${p.engine} has failed to analyze ownership.`,
     '${engine} has resigned.': p => `${p.engine} a résigné.`,
     'Please attach one or more engines first.':
       'Veuillez d’abord attacher un moteur.',

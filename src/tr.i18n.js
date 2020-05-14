@@ -227,6 +227,8 @@ module.exports = {
     'Connection Failed': 'Bağlantı Başarısız Oldu',
     '${engine} has failed to generate a move.': p =>
       `${p.engine} hamle yapmakta başarısız oldu.`,
+    '${engine} has failed to analyze ownership.': p =>
+      `${p.engine} has failed to analyze ownership.`,
     '${engine} has resigned.': p => `${p.engine}  terk etti.`,
     'Please attach one or more engines first.':
       'Lütfen bir ya da daha fazla motor ilişkilendirin.',

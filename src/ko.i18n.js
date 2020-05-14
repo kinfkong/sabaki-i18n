@@ -228,6 +228,8 @@ module.exports = {
     'Connection Failed': '연결에 실패했습니다.',
     '${engine} has failed to generate a move.': p =>
       `${p.engine}이 다음 수를 두는 데 실패했습니다.`,
+    '${engine} has failed to analyze ownership.': p =>
+      `${p.engine} has failed to analyze ownership.`,
     '${engine} has resigned.': p => `${p.engine}이/가 기권했습니다.`,
     'Please attach one or more engines first.':
       '먼저 하나 이상의 엔진을 연결해 주십시오.',

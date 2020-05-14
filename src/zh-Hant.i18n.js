@@ -226,6 +226,8 @@ module.exports = {
     'Connection Failed': '連接失敗',
     '${engine} has failed to generate a move.': p =>
       `${p.engine} 引擎生成下一手棋失敗。`,
+    '${engine} has failed to analyze ownership.': p =>
+      `${p.engine} 引擎形势分析失敗。`,
     '${engine} has resigned.': p => `${p.engine} 認輸了。`,
     'Please attach one or more engines first.': '請先載入一個或多個引擎。',
     'The selected engine does not support analysis.':

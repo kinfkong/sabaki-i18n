@@ -228,6 +228,8 @@ module.exports = {
     'Connection Failed': 'Подключение не удалось',
     '${engine} has failed to generate a move.': p =>
       `${p.engine} не удалось сгенерировать ход.`,
+    '${engine} has failed to analyze ownership.': p =>
+      `${p.engine} has failed to analyze ownership.`,
     '${engine} has resigned.': p => `${p.engine} сдаётся.`,
     'Please attach one or more engines first.':
       'Сначала прикрепите одну или несколько программ.',

@@ -227,6 +227,8 @@ module.exports = {
     'Connection Failed': 'Connection Failed',
     '${engine} has failed to generate a move.': p =>
       `${p.engine} has failed to generate a move.`,
+    '${engine} has failed to analyze ownership.': p =>
+    `${p.engine} has failed to analyze ownership.`,
     '${engine} has resigned.': p => `${p.engine} has resigned.`,
     'Please attach one or more engines first.':
       'Please attach one or more engines first.',

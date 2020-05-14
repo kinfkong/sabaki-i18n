@@ -229,6 +229,8 @@ module.exports = {
     'Connection Failed': '接続失敗',
     '${engine} has failed to generate a move.': p =>
       `${p.engine}は着手の生成に失敗しました。`,
+    '${engine} has failed to analyze ownership.': p =>
+      `${p.engine} has failed to analyze ownership.`,
     '${engine} has resigned.': p => `${p.engine}が投了しました。`,
     'Please attach one or more engines first.':
       '最初にエンジンを接続してください。',
